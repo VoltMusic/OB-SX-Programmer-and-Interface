@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Random)(type KiCad)(uri ${KIPRJMOD}/Random.pretty)(options "")(descr ""))
+  (lib (name w_conn_av)(type KiCad)(uri ${KIPRJMOD}/w_conn_av.pretty)(options "")(descr ""))
+  (lib (name Custom_Footprints)(type KiCad)(uri ${KIPRJMOD}/Custom_Footprints.pretty)(options "")(descr ""))
+)
