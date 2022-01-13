@@ -4,11 +4,16 @@ This contains the Arduino code and KiCAD project file for creating a OB-SX Progr
 The Interface plugs into the D-sub connector at the back of the OB-SX. It accesses the OB-XA's RAM and overwrites data linked to the voice board parameters.
 The Programmer allows the user to program each parameter of the voices by sending messages to the Interface over a IC2 bus.
 
-I may re-visit this project again but design the board around the more fully teensy microcontrollers. 
+I may re-visit this project again but design the board around the more powerfull teensy microcontroller. 
 
 Problems:
 - And extra diode is required on the programmer board, I will update the PCB with this correction soon
 - As you can see in the interface code the MIDI part is commented out, this is because it has many issues currently.
+
+To-do:
+- Upload example SD card patch files
+
+Great Resources:
 
 
 Disclaimer:
