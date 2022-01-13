@@ -16,7 +16,7 @@ To-do:
 - Upload example SD card patch files
 
 Disclaimer:
-By using the code and PCB design files included in this repository, you take responsibility of any damage that may occur to your OB-SX. I highly recommend using these materials as a starting point for you to add and improve upon, if you do not have a good understanding of electronics and (Arduino) programming I do not recommend this project. These designs are open-source and therefore can be used as you wish.
+-By using the code and PCB design files included in this repository, you take responsibility of any damage that may occur to your OB-SX. I highly recommend using these materials as a starting point for you to add and improve upon, if you do not have a good understanding of electronics and (Arduino) programming I do not recommend this project. These designs are open-source and therefore can be used as you wish.
 
 Thank you
 
