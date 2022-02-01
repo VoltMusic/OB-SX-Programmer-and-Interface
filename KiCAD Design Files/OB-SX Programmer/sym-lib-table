@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name eurocad)(type Legacy)(uri ${KIPRJMOD}/eurocad-master/eurocad.lib)(options "")(descr ""))
+  (lib (name Controller-rescue)(type Legacy)(uri ${KIPRJMOD}/Controller-rescue.lib)(options "")(descr ""))
+)
